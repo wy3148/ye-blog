@@ -1,7 +1,8 @@
 ---
-title: Use Golang develop web service--gorilla/mux to 
+title: Use Golang to develop web service--gorilla/mux 
 date: 2019-10-20 21:58:05
 tags: golang
+categories: golang
 ---
 
 This is simple notes about using opensource gorilla/mux to implement API service

@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Let code talk
+title: Ye's Tech Blog
 subtitle:
 description:
 author: YE WANG
@@ -20,7 +20,7 @@ permalink_defaults:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
+#tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
@@ -53,7 +53,7 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
+default_category: golang
 category_map:
 tag_map:
 
