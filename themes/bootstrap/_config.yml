@@ -13,12 +13,11 @@ fancybox: false
 widgets:
 - about         # See also: `about_content`
 - category
-- tag
-- tagcloud
 - archive
 - recent_posts
 about_widget_content: >
-  <p>welcome to my tech blog, https://www.linkedin.com/in/wy3148/</p>
+  <p>welcome to my tech blog</p>
+  <p>https://www.linkedin.com/in/wy3148/</p>
 
 # widget behavior
 archive_type: 'monthly'
