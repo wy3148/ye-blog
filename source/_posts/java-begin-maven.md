@@ -3,6 +3,7 @@
 title: java use maven
 date: 2020-07-27 21:55:53
 tags: java
+categories: java
 ---
 
 
