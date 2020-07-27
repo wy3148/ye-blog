@@ -215,6 +215,10 @@ go to kibana home page->management->index patterns,
 http://localhost:5601/app/kibana#/management/elasticsearch/index_management/indices?_g=()
 ```
 
+# references
+https://www.elastic.co/start
+
+
 
 
 
